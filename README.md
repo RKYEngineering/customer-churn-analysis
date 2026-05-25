@@ -143,7 +143,7 @@ This project can help businesses:
 
 # 📂 Repository Structure
 
-
+```
 customer-churn-analysis/
 │
 ├── data/
