@@ -1,6 +1,6 @@
 # 📊 Customer Churn Analysis and Prediction
 
-![Customer Churn Banner](Customer_churn_banner.jpeg)
+![Customer Churn Banner](ccb.png)
 
 ## 📌 Project Overview
 
