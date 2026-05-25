@@ -118,8 +118,17 @@ The project includes:
 ## 📈 ROC-AUC Score
 
 * 🌲 Random Forest ROC-AUC Score: **0.86**
-
+  
 ---
+
+# 📊 Results
+
+- Achieved approximately **79% accuracy** using Random Forest Classifier
+- Achieved **0.86 ROC-AUC score**
+- Identified tenure, billing patterns, and contract type as key churn factors
+- Successfully predicted customers at high risk of churn
+  
+
 
 # 💡 Business Impact
 
@@ -134,7 +143,7 @@ This project can help businesses:
 
 # 📂 Repository Structure
 
-```text id="8q2vpk"
+
 customer-churn-analysis/
 │
 ├── data/
@@ -144,7 +153,7 @@ customer-churn-analysis/
 └── customer_churn_analysis.ipynb
 ```
 
----
+
 
 # 🔮 Future Improvements
 
@@ -159,7 +168,6 @@ customer-churn-analysis/
 
 Ritik Kumar Yadav 
 M.Tech Student | Aspiring Data Analyst 
-Developed as part of M.Tech research and data analytics portfolio.
 
 - LinkedIn: https://www.linkedin.com/in/ritik-kumar-yadav-70a81435a/
 - GitHub: https://github.com/RKYEngineering
