@@ -140,8 +140,8 @@ customer-churn-analysis/
 ├── data/
 │   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
 ├── README.md
-├── customer_churn_analysis.ipynb
-└── Customer_churn_banner.png
+├── ccb.png
+└── customer_churn_analysis.ipynb
 ```
 
 ---
